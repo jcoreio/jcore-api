@@ -1,0 +1,32 @@
+{
+  "name": "jcore-api",
+  "version": "1.0.0",
+  "description": "API for interacting with data from the jcore.io cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcoreio/jcore-api.git"
+  },
+  "keywords": [
+    "real-time",
+    "automation",
+    "control",
+    "industrial"
+  ],
+  "author": "Jason McLaurin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jcoreio/jcore-api/issues"
+  },
+  "homepage": "https://github.com/jcoreio/jcore-api#readme",
+  "dependencies": {
+    "check-types": "^5.1.0",
+    "faye-websocket": "^0.10.0",
+    "fibers": "^1.0.8",
+    "lodash": "^3.10.1",
+    "wait.for": "^0.6.6"
+  }
+}
