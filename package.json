@@ -1,6 +1,6 @@
 {
   "name": "jcore-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "API for interacting with data from the jcore.io cloud",
   "main": "index.js",
   "scripts": {
