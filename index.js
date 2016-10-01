@@ -16,4 +16,4 @@
 
 'use strict';
 
-module.exports = require('./lib/API');
+module.exports = require('./lib/api');
